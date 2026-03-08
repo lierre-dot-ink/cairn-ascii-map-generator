@@ -1,4 +1,4 @@
-# cairn-realmify
+# cairn-ascii-map-generator
 
 Generates text-based maps based on the TTRPG Cairn2e setting generation procedure.
 
